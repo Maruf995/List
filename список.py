@@ -13,5 +13,5 @@ while True:
         product = input()
         products.remove(product)
         print(products)
-    else:
-        print("Не верное число!")
+else:
+    print("Не верное число!")
